@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/97da40da-a7fe-45b8-b05c-4ebf540a9cf7)EXP NO:6 C PROGRAM PRINT THE LOWERCASE ENGLISH WORD CORRESPONDING TO THE NUMBER
+NO:6 C PROGRAM PRINT THE LOWERCASE ENGLISH WORD CORRESPONDING TO THE NUMBER
 Aim:
 To write a C program print the lowercase English word corresponding to the number
 Algorithm:
